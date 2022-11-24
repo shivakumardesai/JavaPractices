@@ -1,0 +1,42 @@
+Design Patterns
+ - Creational
+ - Structural
+ - Behavioral - Read
+Data Structures
+ - JavaCollections 
+ - TimeComplexity
+Java 8
+ - Lambda
+ - Stream
+ - Functional Interface 
+ - OOPS
+FrontEnd 
+ - Recently not worked in last 4 Years
+Docker
+CI/CD
+
+Exception Handling
+ - RuntimeException(UnChecked)
+ - Checked
+SpringSecurity
+ - 
+OAuth
+Https
+
+
+Logging - Why,how
+ - Correlation
+ 
+
+Explain With Example
+
+Annotations 
+---------------------------------
+Java Fundamentals,
+Java Collections Framework,
+Java Multithreading and Concurrency,
+Serialization, Design Patterns,
+and JVM and Classloading.
+
+ 
+ 
